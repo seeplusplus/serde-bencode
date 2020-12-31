@@ -1,4 +1,4 @@
-# serde-bencode
+# serde_bencode
 bencode for rust, utilizing serde
 
 ## Why? 
